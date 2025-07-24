@@ -1,2 +1,3 @@
 # zinabs-demo
-This is y first repositry
+This is my first repositry
+Author -Zainab
